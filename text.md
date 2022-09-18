@@ -16,4 +16,4 @@ Chave : ProPlayer
 ===================
 Stage 5
 ===================
-Chave : 
+Chave : Aprendizado contínuo
