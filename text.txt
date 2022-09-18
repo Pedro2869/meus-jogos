@@ -1,0 +1,18 @@
+Stage 2
+
+- HTML: Hypertext Markup Language
+
+- CSS : Cascading Style Sheets
+
+- JS : JavaScript
+
+Sintaxe: nome do atributo, sinal de igual, aspas duplas (abre), valor, aspas duplas (fecha)
+
+Comentários
+
+- Ignorar linhas de código
+- Adicionar informação
+- Somente acessível por quem coda
+
+==============================
+
